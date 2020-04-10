@@ -1,0 +1,2 @@
+minor_changes:
+ - facts - obtaining hurd network facts through socket_path is now extracted to a new method
